@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:41.082827
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:25
 #+TITLE: 最無比經
 #+PROPERTY: CBETA_ID T16n0691
 #+PROPERTY: ID KR6i0381
